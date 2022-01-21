@@ -1,5 +1,5 @@
 # This repo contains all the projects I am currently exploring and implementing to learn.
-# 1.Intro to Machine Learning 
+# 1.Kaggle Intro To Ml
     Topic Covered:
     1.How Models Work
     2.Basic Data Exploration.
