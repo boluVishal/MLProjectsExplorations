@@ -1,4 +1,4 @@
-# This repo contains all the projects I am currently exploring and implementing to learn.
+# This repo contains all the resources and projects I am currently exploring and implementing to learn.
 # 1.Kaggle Intro To Ml
     Topic Covered:
     1.How Models Work.
